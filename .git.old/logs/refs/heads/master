@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 6dc11a7d8befc9cffb747a80b542ead153f3d0e0 Juanjo C <juanjo@cygnussource.com> 1545129507 +0100	clone: from git@git.ng.bluemix.net:juanjo/AsteroidTrackerAPI.git
+6dc11a7d8befc9cffb747a80b542ead153f3d0e0 bd1ee530cd6d40d80a09e3afe20dd66da9b4b73a Juanjo C <juanjo@cygnussource.com> 1545133224 +0100	commit: Incluido codigo de AsteroidTracker a la IBMCloud
+bd1ee530cd6d40d80a09e3afe20dd66da9b4b73a 9217fdc1c672e4fd990ddbea59d35eb9ab57ed2a Juanjo C <juanjo@cygnussource.com> 1545176490 +0100	commit: Initial commit with AsteroidTracker code.
+9217fdc1c672e4fd990ddbea59d35eb9ab57ed2a ed1ba8d25201174f7a5946cf89adc10276dd01c7 Juanjo C <juanjo@cygnussource.com> 1545219285 +0100	commit: Ajustes de memoria.
+ed1ba8d25201174f7a5946cf89adc10276dd01c7 a722484b47807ad6a377209e65ddf20ddbb67d6e Juanjo C <juanjo@cygnussource.com> 1545739418 +0100	commit: Ajustes de memoria.
+a722484b47807ad6a377209e65ddf20ddbb67d6e 8ce5bd89286a8aba15e238c9b9f8f7e35f57fe47 Juanjo C <juanjo@cygnussource.com> 1545739418 +0100	commit (amend): Ajustes de memoria.
+8ce5bd89286a8aba15e238c9b9f8f7e35f57fe47 39ffc4f9958f802f79175cfd196c53eee4af3628 Juanjo C <juanjo@cygnussource.com> 1545739869 +0100	commit: Configuracion para Tomcat.
+39ffc4f9958f802f79175cfd196c53eee4af3628 4328d4a6e600d1eed65898edf5a527dcf58c222b Juanjo C <juanjo@cygnussource.com> 1545777668 +0100	commit: Dependencia spring cloud.
+4328d4a6e600d1eed65898edf5a527dcf58c222b 3d60aa719b43e72345f447f7cbeeff38941a7e16 Juanjo C <juanjo@cygnussource.com> 1545784442 +0100	commit: Hateoas en bean.
+3d60aa719b43e72345f447f7cbeeff38941a7e16 e0a34613d02725162f6857a4d1336b8d3990e3d0 Juanjo C <juanjo@cygnussource.com> 1545838781 +0100	commit: Gestion de excepciones.
+e0a34613d02725162f6857a4d1336b8d3990e3d0 2bc65d06387a8035f02ab95bebed0f05ff17cce7 Juanjo C <juanjo@cygnussource.com> 1547132675 +0100	commit: Initial commit

@@ -1,0 +1,12 @@
+---
+applications:
+- instances: 1
+  timeout: 180
+  name: AsteroidTrackerAPI
+  buildpack: java_buildpack
+  path: ./target/AsteroidTrackerAPI-1.0-SNAPSHOT.jar
+  memory: 256M
+  domain: eu-gb.mybluemix.net
+  host: asteroidtrackerapi
+env:
+  JAVA_OPTS: -Xms128m -Xmx256m

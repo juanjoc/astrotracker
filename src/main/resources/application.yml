@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: asteroidTrackerAPI
+
+nasa:
+  scheme: "https"
+  server: "api.nasa.gov"
+  token: t1AvHFglEZir3iMNAzNVM3w4WJMetg21gMn0QKpb
+  neoFeed: "neo/rest/v1/feed"
+  neoLookup: "neo/rest/v1/neo"
+  neoBrowser: "neo/rest/v1/neo/browse"
+  maxDaysInQuery: 7

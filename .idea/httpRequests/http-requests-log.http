@@ -1,0 +1,7 @@
+GET http://localhost:3333/actuator
+Accept: application/vnd.spring-boot.actuator.v1+json
+
+<> 2018-12-18T120657.200.txt
+
+###
+
