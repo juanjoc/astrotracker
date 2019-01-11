@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Microservice
 IBM Cloud Microservice Starter for Spring
 
@@ -59,3 +60,7 @@ This project was generated using:
 * generator-ibm-cloud-enablement v1.3.9
 * generator-ibm-java-spring v
 
+=======
+# astrotracker
+A API for connect with the NEO Asteroid API at NASA
+>>>>>>> 222bdb4fdef396e84e765944570a107ea881492f

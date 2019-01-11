@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0cf98d69-a7a4-44dd-8a73-ba3a1f2ccdba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cygnussource/AsteroidTrackerAPI/services/bean/AsteroidTrackerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cygnussource/AsteroidTrackerAPI/services/bean/AsteroidTrackerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
@@ -622,7 +623,7 @@
       <option name="presentableId" value="Default" />
       <updated>1545129509354</updated>
       <workItem from="1545129510756" duration="50324000" />
-      <workItem from="1546865794309" duration="1971000" />
+      <workItem from="1546865794309" duration="3434000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit with AsteroidTracker code.">
       <created>1545176490848</created>
@@ -691,11 +692,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52295000" />
+    <option name="totallyTimeSpent" value="53758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="1924" height="1057" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="UI Designer" order="1" />
